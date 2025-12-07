@@ -17,9 +17,9 @@ This project simulates how FP&A teams at Flipkart analyze revenue and unit econo
 
 ---
 ## 📂 Project Structure
-data/ → 4 e-commerce table CSVs
-sql/ → 12 analysis SQL scripts
-table_schema.sql → Table creation script
+- data/ → 4 e-commerce table CSVs
+- sql/ → 12 analysis SQL scripts
+- table_schema.sql → Table creation script
 
 
 ---
