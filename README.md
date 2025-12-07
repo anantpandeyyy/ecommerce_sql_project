@@ -31,7 +31,7 @@ table_schema.sql → Table creation script
 ---
 ## 🚀 How to Run
 1. Create a PostgreSQL database (`ecommerce_fpa`)
-2. Run `postgres_schema.sql` to create tables
+2. Run `table_schema.sql` to create tables
 3. Import CSVs from `/data`
 4. Execute SQL in `/sql` for insights
 
