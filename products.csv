@@ -1,0 +1,25 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+1,Basic Earphones,Electronics,Earphones,1435.08,1916.03
+2,Premium Earphones,Electronics,Earphones,945.47,1374.12
+3,Basic Power Bank,Electronics,Power Bank,782.98,798.46
+4,Premium Power Bank,Electronics,Power Bank,627.26,1443.28
+5,Basic Bluetooth Speaker,Electronics,Bluetooth Speaker,1178.09,1645.68
+6,Premium Bluetooth Speaker,Electronics,Bluetooth Speaker,1226.5,455.05
+7,Basic Smartwatch,Electronics,Smartwatch,842.75,397.85
+8,Premium Smartwatch,Electronics,Smartwatch,914.39,1050.6
+9,Basic T-Shirt,Fashion,T-Shirt,1354.02,896.56
+10,Premium T-Shirt,Fashion,T-Shirt,352.19,543.09
+11,Basic Jeans,Fashion,Jeans,1189.96,1350.97
+12,Premium Jeans,Fashion,Jeans,331.46,442.98
+13,Basic Sneakers,Fashion,Sneakers,1111.26,423.7
+14,Premium Sneakers,Fashion,Sneakers,1268.42,1500.61
+15,Basic Jackets,Fashion,Jackets,305.75,444.22
+16,Premium Jackets,Fashion,Jackets,1482.63,936.26
+17,Basic Mixer Grinder,Home,Mixer Grinder,681.83,1681.76
+18,Premium Mixer Grinder,Home,Mixer Grinder,1431.42,1976.2
+19,Basic Bedsheet,Home,Bedsheet,1179.39,939.64
+20,Premium Bedsheet,Home,Bedsheet,308.55,1621.15
+21,Basic Pillow,Home,Pillow,925.93,1021.18
+22,Premium Pillow,Home,Pillow,1378.26,489.04
+23,Basic Decor Light,Home,Decor Light,840.41,319.3
+24,Premium Decor Light,Home,Decor Light,809.26,395.72
