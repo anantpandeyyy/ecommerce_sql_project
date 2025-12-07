@@ -1,6 +1,6 @@
 # E-commerce FP&A SQL Analytics Project
 
-This project simulates how FP&A teams at Flipkart analyze revenue and unit economics in e-commerce.
+This project simulates how FP&A teams at e-commerce platforms analyze revenue and unit economics in e-commerce.
 
 ---
 ## 📊 Business Questions Solved using SQL
@@ -19,14 +19,17 @@ This project simulates how FP&A teams at Flipkart analyze revenue and unit econo
 ## 📂 Project Structure
 - data/ → 4 e-commerce table CSVs
 - sql/ → 12 analysis SQL scripts
-- table_schema.sql → Table creation script
-
-
+- table/ → table creation script
+  
 ---
-## 🧠 Key Insights (Example Findings)
-- Electronics drives the highest GMV but margins are low → discount burn
-- Repeat customers contribute ~60% of revenue → retention is strong revenue driver
-- Return rate ~X%, high in category Y → operational fix needed (QC/logistics)
+## 🧠 Key Insights 
+- GMV ₹9.58 Lakhs vs Net Revenue ₹8.36 Lakhs → ~12.8% discount leakage reducing margins.
+- Home Category leads GMV and contributes the highest gross profit, showing it’s the most profitable category.
+- Electronics drives high GMV but low margin (~12%), suggesting price pressure and discounting.
+- Fashion has a negative gross margin (-17.5%), meaning products are sold below cost → urgent pricing or sourcing action needed.
+- Repeat customers contribute 57% revenue while being 44% of orders → retention = profit driver.
+- Return rate = 8% overall — manageable but needs watch, as returns directly erode margins.
+- Electronics has highest return rate (9.26%), creating double margin pressure: discounts + returns.
 
 ---
 ## 🚀 How to Run
